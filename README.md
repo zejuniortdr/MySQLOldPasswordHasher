@@ -1,4 +1,4 @@
-MySQLOldPasswordHasher
+MySQL Old Password Hasher
 ======================
 
 Classe para criptografar as senhas utilizando o modelo da função old_password do mysql 4.x no Django.
