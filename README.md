@@ -28,5 +28,6 @@ PASSWORD_HASHERS = (
     
 )
 
-3. A função de login se mantêm sem alteração, com os métodos authenticate e authlogin normalmente.
+
+A função de login se mantêm sem alteração, com os métodos authenticate e authlogin normalmente.
 
